@@ -1,0 +1,17 @@
+.bg1{
+    background: linear-gradient(180deg, rgba(0,0,0,0.5971814751291141) 0%, rgba(17,53,75,1) 100%);
+}
+.bg3 {
+    background: linear-gradient(0deg, rgba(15,69,101,0.86) 0%, rgba(17,53,75,1) 100%);
+}
+.bg4 {
+    background: linear-gradient(0deg, rgba(5,135,207,0.5) 0%, rgba(9,108,163,0.58) 40%, rgba(15,69,101,0.86) 100%);
+}
+
+.bg5 {
+    background: linear-gradient(0deg, rgba(34,101,138,1) 0%, rgba(130,195,231,1) 100%);
+}
+
+.bg6 {
+    background: linear-gradient(0deg, rgba(17,53,75,1) 40%, rgba(34,101,138,1) 100%);
+}
