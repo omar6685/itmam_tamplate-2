@@ -30,7 +30,7 @@
 .hover-underline-animation {
     position: relative;
   }
-  
+
   .hover-underline-animation::after {
     content: '';
     position: absolute;
@@ -43,7 +43,7 @@
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
   }
-  
+
   .hover-underline-animation:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
@@ -52,7 +52,7 @@
 
 
 
-  
+
 
 .accordion .accordion-item {
     border-bottom: 1px solid #82C3E7;
