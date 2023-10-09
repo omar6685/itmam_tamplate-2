@@ -3,22 +3,19 @@
             padding-top: 200px;
 }
 .title {
-        display: flex;
-            justify-content: center;
+    padding-right: 538px;
             padding-top: 110px;
             font-size: 35px;
             font-weight: 900;
 }
 .report {
-        display: flex;
-            justify-content: center;
+        padding-right: 557px;
             font-size: 30px;
             padding-top: 35px;
             font-weight: bold;
 }
 .report-date {
-        display: flex;
-        justify-content: center;
+        padding-right: 570px;
         padding-top: 25px;
         font-size: 20px;
 }
@@ -69,33 +66,24 @@
 .rate {
     border: 30px solid green;
     border-radius: 865px;
-    width: fit-content;
-    margin-right: 90vh;
-    display: flex;
-    justify-content: center;
+    width: 225px;
+    margin-right: 550px;
     padding: 30px;
     text-align: center;
     font-weight: 900;
     margin-top: 45px;
     font-size: 25px;
 }
-.rate-1 {
-    display: grid;
-        gap: 80px;
-        justify-items: stretch;
-}
+
 .range {
-        display: flex;
-            justify-content: center;
-            padding-right: 180px;
+            padding-right: 500px;
             padding-top: 65px;
             font-size: 36px;
             font-family: ui-serif;
 }
 .range-1 {
-        display: flex;
-            justify-content: space-around;
             padding-top: 80px;
+            padding-right: 550px;
 
 }
 .range-2 {
@@ -111,6 +99,7 @@
             border-top-left-radius: 10px;
             border-end-start-radius: 10px;
             width: 250px;
+            margin-top: 50px;
 
 }
 .range-4 {
@@ -119,6 +108,7 @@
             border-top-left-radius: 10px;
             border-end-start-radius: 10px;
             width: 250px;
+            margin-top: 50px;
 }
 .result {
         padding-top: 35px;
@@ -129,16 +119,17 @@
 }
 .result-1 {
         padding-top: 35px;
-            padding-right: 50px;
+    padding-right: 500px;
+        font-size: 22px;
 }
 .result-2 {
-    display: flex;
-    justify-content: space-around;
-    padding-top: 10px;
+    padding-top: 35px;
+    padding-right: 550px;
 }
 .result-3 {
     border: 2px solid green;
     padding: 15px;
+    width: 200px;
     background: #2e932e;
     color: white;
     border-top-left-radius: 10px;
@@ -146,20 +137,25 @@
 }
 
 .a {
-        padding-top: 19px;
-            font-size: 18px;
+    padding-top: 20px;
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-right: 80px;
 }
 .b {
         border: 2px solid green;
         padding: 15px;
+        width: 200px;
         background: #2e932e;
         color: white;
         border-top-left-radius: 10px;
         border-end-start-radius: 10px;
 }
 .a-1 {
-        padding-top: 19px;
-            font-size: 18px;
+    padding-top: 20px;
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-right: 80px;
 }
 .a-2 {
         padding-top: 19px;
@@ -172,16 +168,18 @@
                 width: fit-content;
                 font-weight: 900;
                 padding: 7px;
+                    margin-right: 62px;
+                        margin-top: 50px;
 }
 .a-4{
-        padding-top: 35px;
-            padding-right: 50px;
+    padding-top: 80px;
+    padding-right: 500px;
+    font-size: 22px;
 
 }
 .a-5{
-        display: flex;
-            justify-content: space-around;
-            padding-top: 10px;
+            padding-top: 25px;
+                padding-right: 550px;
 }
 .a-6{
         border: 2px solid green;
@@ -191,13 +189,17 @@
             border-top-left-radius: 10px;
             border-end-start-radius: 10px;
             font-size: 17px;
+                width: 200px;
 }
 .a-7{
-        padding-top: 19px;
-            font-size: 18px;
+padding-top: 20px;
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-right: 80px;
 
 }
 .a-8{
+        width: 200px;
         border: 2px solid green;
             padding: 15px;
             background: #C0C0C0;
@@ -207,8 +209,10 @@
             font-size: 17px;
 }
 .a-9{
-        padding-top: 19px;
-            font-size: 18px;
+    padding-top: 20px;
+        font-size: 18px;
+        padding-bottom: 20px;
+        padding-right: 80px;
 
 }
 .b-1{
@@ -222,11 +226,14 @@
         width: fit-content;
         font-weight: 900;
         padding: 7px;
+                            margin-right: 62px;
+                                margin-top: 50px;
 
 }
 .b-3{
         padding-top: 50px;
             padding-right: 40px;
+                font-size: 20px;
 }
 .b-4{
         padding-top: 272px;
@@ -241,19 +248,16 @@
 
 }
 .b-6{
-        display: flex;
-            justify-content: center;
+    padding-right: 493px;
             font-size: 25px;
             padding-top: 500px;
 }
 .b-7{
-        display: flex;
-            justify-content: center;
+        padding-right: 483px;
             padding-top: 35px;
 }
 .b-8{
-    display: flex;
-            justify-content: center;
+    padding-right: 563px;
             font-size: 25px;
             padding-top: 70px;
             padding-bottom: 300px;
